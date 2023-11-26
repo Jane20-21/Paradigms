@@ -12,4 +12,3 @@ def sort_list_imperative(numbers):
 if __name__ == '__main__':
     nums = [8, 4, 9, 5, 10, 1, 2]
     print(sort_list_imperative(nums))
-    
